@@ -145,10 +145,10 @@ This is an academic project for educational purposes.
 GitHub Profiles:
 
 * [https://github.com/saraapenha](https://github.com/saraapenha)
-
-(Add additional team members if desired)
+* [https://github.com/kaltrinasalihi](https://github.com/kaltrinasalihi)
 
 ---
 
 Made with ❤️ by the Through the Label Team
+
 
