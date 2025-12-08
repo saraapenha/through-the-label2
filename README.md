@@ -124,64 +124,13 @@ This satisfies the machine learning requirement for the course project.
 
 ## 🚀 How to Run the App
 
-### 1. Clone the repository
+**Run Online (Recommended)**
 
-git clone [https://github.com/saraapenha/through-the-label2.git](https://github.com/saraapenha/through-the-label2.git)
-cd through-the-label2
+_You can access the full application instantly through the Streamlit Cloud deployment:_
 
-### 2. (Optional) Create a virtual environment
+👉 https://through-the-label2-skkghigrpguryawgzskbuq.streamlit.app/
 
-python3 -m venv venv
-source venv/bin/activate     *(Windows: venv\Scripts\activate)*
-
-### 3. Install dependencies
-
-pip install -r requirements.txt
-
-### 4. Run the application
-
-streamlit run Frontpage.py
-
-The app will open at **[http://localhost:8501](http://localhost:8501)**
-
----
-
-## 🧩 Screenshots
-
-*(Optional — recommended to add later)*
-
-Examples to include:
-
-* Profile page
-* Ingredient Analysis
-* Recommendations
-* Dashboard
-
----
-
-## 🐍 Requirements
-
-* **Python 3.9+ recommended**
-* Main libraries:
-
-  * Streamlit
-  * Pandas
-  * NumPy
-  * Plotly
-
----
-
-## 🛠️ Troubleshooting
-
-**Streamlit not found:**
-pip install streamlit
-
-**ModuleNotFoundError:**
-pip install -r requirements.txt
-
-**App not launching:**
-cd through-the-label2
-streamlit run Frontpage.py
+No installation, setup, or environment configuration needed.
 
 ---
 
@@ -202,3 +151,4 @@ GitHub Profiles:
 ---
 
 Made with ❤️ by the Through the Label Team
+
